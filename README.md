@@ -6,7 +6,7 @@ Welcome to the Page Replacement Algorithms Simulation repository. This project i
 
 - [About the Project](#about-the-project)
 - [Supported Algorithms](#supported-algorithms)
--.[Live Demo](#live-demo).
+- [Live Demo](#live-demo).
 
 ## About the Project
 
